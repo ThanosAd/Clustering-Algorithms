@@ -2,7 +2,7 @@
 """
 Created on Wed Jan  9 17:24:34 2019
 
-@author: todos
+@author: thanosAd
 """
 
 import random
