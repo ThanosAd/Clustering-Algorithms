@@ -28,7 +28,7 @@
 
 **LVQ with 3 centers**
 
-
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/lvq3.png)
 
 **LVQ with 5 centers**
 
