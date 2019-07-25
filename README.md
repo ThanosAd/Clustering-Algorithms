@@ -1,4 +1,4 @@
-Implementation of K-Means Clustering Algorithm and Learning Vector Quantization.
+## Implementation of K-Means Clustering Algorithm and Learning Vector Quantization.
 
 -The two algorithms create and use the same set of numbers.
 
@@ -6,4 +6,6 @@ Implementation of K-Means Clustering Algorithm and Learning Vector Quantization.
 
 -There is a plot after the execution.
 
-https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km2.png
+**K-Means with 2 centers**
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km2.png)
+
