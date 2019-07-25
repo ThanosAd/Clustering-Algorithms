@@ -7,5 +7,33 @@
 -There is a plot after the execution.
 
 **K-Means with 2 centers**
+
 ![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km2.png)
 
+**K-Means with 3 centers**
+
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km3.png)
+
+**K-Means with 5 centers**
+
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km5.png)
+
+**K-Means with 7 centers**
+
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km7.png)
+
+**LVQ with 2 centers**
+
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/lvq2.png)
+
+**LVQ with 3 centers**
+
+
+
+**LVQ with 5 centers**
+
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/lvq5.png)
+
+**LVQ with 7 centers**
+
+![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/lvq7.png)
