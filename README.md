@@ -5,3 +5,5 @@ Implementation of K-Means Clustering Algorithm and Learning Vector Quantization.
 -Number of clusters is defined as M.
 
 -There is a plot after the execution.
+
+https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km2.png
