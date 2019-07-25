@@ -6,6 +6,8 @@
 
 -There is a plot after the execution.
 
+
+### **Test Results**
 **K-Means with 2 centers**
 
 ![alt text](https://github.com/ThanosAd/Clustering-Algorithms/blob/master/km2.png)
